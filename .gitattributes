@@ -1,1 +1,1 @@
-*.MATLAB -linguist-detectable
+*.mat linguist-language=Java
